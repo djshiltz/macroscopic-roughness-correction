@@ -1,0 +1,8 @@
+# USE PYTHON VERSION 3.9
+# to install these packages, navigate to this directory in a terminal and type:
+# pip install -r requirements.txt
+
+numpy==1.22.2
+scipy==1.8.0
+matplotlib==3.5.1
+alive_progress==2.3.1
