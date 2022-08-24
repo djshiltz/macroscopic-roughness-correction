@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as described below, and also cite the original paper published in Icarus:
+'An Alternative to Hapke's Macroscopic Roughness Correction' by Dylan J. Shiltz and Charles M. Bachmann."
+authors:
+  - family-names: Shiltz
+    given-names: Dylan J.
+    orcid: https://orcid.org/0000-0001-5398-1875
+title: "Laboratory Data and Python Code for An Alternative to Hapke's Macroscopic Roughness Correction"
+version: 1.0.4
+doi: 10.5281/zenodo.7020681
+date-released: 2022-08-24
