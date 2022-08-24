@@ -6,6 +6,6 @@ authors:
     given-names: Dylan J.
     orcid: https://orcid.org/0000-0001-5398-1875
 title: "Laboratory Data and Python Code for An Alternative to Hapke's Macroscopic Roughness Correction"
-version: 1.0.4
+version: 1.0.3
 doi: 10.5281/zenodo.7020681
 date-released: 2022-08-24
