@@ -1,5 +1,5 @@
 # macroscopic-roughness-correction
-Public Release v1.0.3
+Public Release v1.0.0
 
 This repository contains Python code and laboratory data used in the publication "An Alternative to Hapke's
 Macroscopic Roughness Correction" by Dylan J. Shiltz and Charles M. Bachmann, which is accepted for publication by
