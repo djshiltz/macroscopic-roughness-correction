@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as described below, and also cite the original paper published in Icarus:
+message: "If you use this data or code, please cite it as described below, and also cite the original paper published in Icarus:
 'An Alternative to Hapke's Macroscopic Roughness Correction' by Dylan J. Shiltz and Charles M. Bachmann."
 authors:
   - family-names: Shiltz
