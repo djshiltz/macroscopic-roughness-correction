@@ -5,6 +5,8 @@ This repository contains Python code and laboratory data used in the publication
 Macroscopic Roughness Correction" by Dylan J. Shiltz and Charles M. Bachmann, which is accepted for publication by
 the journal Icarus.
 
+For the latest version, visit ``https://github.com/djshiltz/macroscopic-roughness-correction``
+
 A Python implementation for the following models is included:
 * Hapke's original macroscopic roughness correction, published in (Hapke, B., 1984, "Bidirectional Spectroscopy: 3. Correction for Macroscopic Roughness", Icarus, 59, 41-59)
 * Hapke's modification for multi-facet scattering, published in Ch. 12 of (Hapke, B., 2012, "Theory of Reflectance and Emittance Spectroscopy", Cambridge University Press)
